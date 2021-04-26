@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+        {
+            "rolls": 3,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "function": "minecraft:enchant_with_levels",
+                            "levels": 30,
+                            "treasure": true
+                        },
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 3,
+                            "add": false
+                        }
+                    ],
+                    "name": "minecraft:paper"
+                }
+            ]
+        }
+    ]
+}
