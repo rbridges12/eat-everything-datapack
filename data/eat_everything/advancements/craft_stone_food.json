@@ -1,0 +1,1 @@
+{ "criteria": {"craft_stone_food": {"trigger": "minecraft:recipe_unlocked","conditions": {"recipe": "eat_everything:stone_food"}}},"rewards": {"function": "eat_everything:craft_stone_food"}}

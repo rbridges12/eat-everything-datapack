@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "craft_dirt_food": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "eat_everything:dirt_food"
+            }
+        }
+    },
+    "rewards": {
+        "function": "eat_everything:craft_dirt_food"
+    }
+}
